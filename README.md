@@ -63,4 +63,4 @@
 </div>
 
 
-![Snake animation](https://github.com/psouza0/psouza0/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/psouza0/blob/output/github-contribution-grid-snake.svg)
