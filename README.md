@@ -1,9 +1,10 @@
-## Olá, sou o Paulo Geraldo, Analista DevOps <a href="https://roadmap.sh/devops" target="_blank"><img align="center" title="DevOps" height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/devops-2.svg"></a>
+#### Olá, sou o Paulo Geraldo, Analista DevOps <a href="https://roadmap.sh/devops" target="_blank"><img align="center" title="DevOps" height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/devops-2.svg"></a>
 
-###### 🌎 Recife, Pernambuco - Brasil
-
-
+🌎 Recife, Pernambuco - Brasil
 #
+
+
+
 #### Programação
 <div style="display: flex; gap: 10px; align-items: center;">
   <a href="https://www.java.com/" target="_blank"><img align="center" title="Java" height="40" width="40" src="https://www.svgrepo.com/show/184143/java.svg"></a>
@@ -16,7 +17,7 @@
 </div>
 
 
-#
+
 #### Ferramentas DevOps
 <div style="display: flex; gap: 10px; align-items: center;">
     <a href="https://www.docker.com/" target="_blank"><img title="Docker" height="50" width="60" src="https://www.svgrepo.com/show/452192/docker.svg"></a>
@@ -28,7 +29,7 @@
 </div>
 
 
-#
+
 #### Clouds
 <div style="display: flex; gap: 10px; align-items: center;">
   <a href="https://aws.amazon.com/" target="_blank"><img align="center" title="AWS" height="50" width="60" src="https://www.svgrepo.com/show/331300/aws.svg"></a>
@@ -36,7 +37,7 @@
   <a href="https://cloud.google.com/" target="_blank"><img align="center" title="GCP" height="50" width="60" src="https://www.svgrepo.com/show/448223/gcp.svg"></a>
 </div>
 
-#
+
 #### Databases & DBMS Client
 <div style="display: flex; gap: 10px; align-items: center;">
   <a href="https://www.postgresql.org/" target="_blank"><img align="center" title="PostgreSQL" height="50" width="60" src="https://www.svgrepo.com/show/373965/pgsql.svg"></a>
@@ -48,7 +49,7 @@
 
 
 
-#
+
 #### Outras ferramentas
 <div style="display: flex; gap: 20px; align-items: center; margin-bottom: 30px;">
     <a href="https://code.visualstudio.com/" target="_blank"><img align="center" title="VSCode" height="50" width="60" src="https://www.svgrepo.com/show/374171/vscode.svg"></a>
@@ -61,7 +62,7 @@
     <a href="https://www.redhat.com/en" target="_blank"><img align="center" title="RedHat" height="50" width="60" src="https://www.svgrepo.com/show/355193/redhat.svg"></a>
 </div>
 
-#
+
 ####
 <div style="margin-top: 40px;">
   <a href="https://github.com/psouza0">
