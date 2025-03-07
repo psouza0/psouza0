@@ -1,4 +1,5 @@
-## Olá, sou o Paulo Geraldo 👋
+## Olá, sou o Paulo Geraldo, Analista DevOps <a href="https://roadmap.sh/devops" target="_blank"><img align="center" title="DevOps" height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/devops-2.svg"></a>
+
 ###### 🌎 Recife, Pernambuco - Brasil
 
 
@@ -35,12 +36,25 @@
   <a href="https://cloud.google.com/" target="_blank"><img align="center" title="GCP" height="50" width="60" src="https://www.svgrepo.com/show/448223/gcp.svg"></a>
 </div>
 
+#
+#### Databases & DBMS Client
+<div style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://www.postgresql.org/" target="_blank"><img align="center" title="PostgreSQL" height="50" width="60" src="https://www.svgrepo.com/show/373965/pgsql.svg"></a>
+  <a href="https://www.microsoft.com/pt-br/sql-server" target="_blank"><img align="center" title="MSSQL Server" height="60" width="60" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></a>
+  <a href="https://www.intersystems.com/" target="_blank"><img align="center" title="Intersystems IRIS" height="50" width="60" src="https://www.intersystems.com/favicon-32x32.png"></a>
+  <a href="https://dbeaver.io/" target="_blank"><img align="center" title="DBeaver" height="50" width="50" src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png"></a>
+</div>
+
+
+
 
 #
 #### Outras ferramentas
 <div style="display: flex; gap: 20px; align-items: center; margin-bottom: 30px;">
-  <a href="https://code.visualstudio.com/" target="_blank"><img align="center" title="VSCode" height="50" width="60" src="https://www.svgrepo.com/show/374171/vscode.svg"></a>
+    <a href="https://code.visualstudio.com/" target="_blank"><img align="center" title="VSCode" height="50" width="60" src="https://www.svgrepo.com/show/374171/vscode.svg"></a>
     <a href="https://www.eclipse.org/" target="_blank"><img align="center" title="Eclipse" height="50" width="60" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg"></a>
+    <a href="https://www.jetbrains.com/pt-br/idea/" target="_blank"><img align="center" title="Intellij Idea" height="50" width="60" src="https://www.svgrepo.com/show/353906/intellij-idea.svg"></a>
+    <a href="https://developer.android.com/studio?hl=pt-br" target="_blank"><img align="center" title="Android Studio" height="50" width="50" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png"></a>
     <a href="https://www.kernel.org/" target="_blank"><img align="center" title="Linux" height="50" width="60" src="https://www.svgrepo.com/show/354004/linux-tux.svg"></a>
     <a href="https://www.centos.org/" target="_blank"><img align="center" title="CentOS" height="50" width="60" src="https://www.centos.org/assets/img/centos-symbol.svg"></a>
     <a href="https://www.microsoft.com/en-us/windows-server" target="_blank"><img align="center" title="Windows Server" height="50" width="60" src="https://www.svgrepo.com/show/22736/windows.svg"></a>
