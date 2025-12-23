@@ -1,4 +1,4 @@
-#### Olá, sou o Paulo Geraldo, Analista DevOps <a href="https://roadmap.sh/devops" target="_blank"><img align="center" title="DevOps" height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/devops-2.svg"></a>
+#### Olá, sou o Paulo Geraldo, DevOps Engineer <a href="https://roadmap.sh/devops" target="_blank"><img align="center" title="DevOps" height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/devops-2.svg"></a>
 
 🌎 Recife, Pernambuco - Brasil
 #
